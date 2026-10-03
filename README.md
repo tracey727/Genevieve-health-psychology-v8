@@ -1,4 +1,4 @@
-# GENEVIEVE HEALTH™ — Irene Psychology Practice Safety Demo
+> **Historical / reference build.** This July psychology prototype is superseded for current development by [ON-TRACK-Psychological-Command-Centre](https://github.com/tracey727/ON-TRACK-Psychological-Command-Centre). Preserve this repository for provenance and recovery; do not use it as the current production/deployment source.\n\n# GENEVIEVE HEALTH™ — Irene Psychology Practice Safety Demo
 
 Vercel/GitHub build: `2026.07.18.8-vercel`
 
